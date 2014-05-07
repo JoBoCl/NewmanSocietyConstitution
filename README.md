@@ -7,10 +7,14 @@ The new version of the constitution
 Branches
 --------
 
-* DaysNotice
+* days-notice
 
 Governs the number of days' notice required to a meeting
 
-* Meeting attendance
+* meeting-attendance
 
 Governs the attendance required for a meeting
+
+* bylaws
+
+General meeting for amending constitution, difference between by-laws and constitution re-emphasised.
